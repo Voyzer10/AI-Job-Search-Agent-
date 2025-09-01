@@ -1,5 +1,6 @@
 Job Application Automation
 ![alt text](image.png)
+
 Automate your entire job application workflow — from finding jobs on LinkedIn to tailoring resumes, drafting cover letters, and sending emails — all managed in n8n with integrations to LinkedIn, GitHub, Google Sheets, Google Drive, Gmail, Apify, Apollo.io, Perplexity, and OpenAI.
 
 📌 Features
@@ -146,4 +147,5 @@ Improve email validation & enrichment.
 Multi-theme resume generation.
 
 Dashboard for job tracking.
+
 
