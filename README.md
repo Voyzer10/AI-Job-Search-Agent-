@@ -135,6 +135,7 @@ Workflow will handle job search, resume tailoring, and application email automat
 Job Automation Guide.pdf → Documentation & workflow usage guide.
 
 Job Automation.json → n8n workflow definition.
+![alt text](image-1.png) ![alt text](image-3.png)
 
 🚀 Roadmap
 
